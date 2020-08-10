@@ -5,3 +5,5 @@ Image steganography can have legitimate uses, for example, augmenting an image w
 
 https://www.ingentaconnect.com/contentone/ist/ei/pre-prints/content-ei2020-mwsf-076
 
+### Block Diagram :
+![block_diagram](https://user-images.githubusercontent.com/61373911/89793382-196c7580-db26-11ea-94be-875a5763bf0c.PNG)
