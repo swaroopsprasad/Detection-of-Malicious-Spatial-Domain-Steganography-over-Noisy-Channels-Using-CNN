@@ -9,5 +9,7 @@ Image steganography can have legitimate uses, for example, augmenting an image w
 ### Citation :
 @article{prasaddetection,
   title={Detection of malicious spatial-domain steganography over noisy channels using convolutional neural networks},
-  author={Prasad, Swaroop Shankar and Hadar, Ofer and Polian, Ilia}
+  author={Shankar Prasad, Swaroop and Hadar, Ofer and Polian, Ilia},
+  publisher={Society for Imaging Science and Technology},
+  year={2020}, month={Jan}
 }
